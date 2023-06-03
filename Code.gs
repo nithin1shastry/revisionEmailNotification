@@ -4,7 +4,9 @@ function sendEmail() {
   var values = range.getValues();
   var today = new Date();
   var currentMonth = today.getMonth() + 1; 
+  //Fetch "To Repeat" Column index from google sheet. Emails are sent based on the date present in this column. 
   var toRepeatColumnIndex = 8;
+  //Fetch "Problem" Column from google sheet. Emails have the problem title which are fetched from this column.
   var problemColumnIndex = 2;
   var count = 0;
   var problemsToSolve = []; // Array to store problems that need to be solved.
