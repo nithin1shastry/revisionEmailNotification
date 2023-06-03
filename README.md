@@ -30,3 +30,9 @@ Follow these steps to setup email notification
 
 
 7. Congratulations! Now you will recieve email notifications with the problems that you need to revise!!!
+
+
+
+Sample output
+
+<img width="1024" alt="Screen Shot 2023-06-02 at 9 56 56 PM" src="https://github.com/nithin1shastry/revisionEmailNotification/assets/30688704/c4949903-36fa-40b1-b801-b14777191d59">
